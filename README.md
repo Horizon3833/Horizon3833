@@ -8,5 +8,5 @@
 - 🌱 I’m currently learning Dart
 - 💬 Ask me about anything, I'll try to help
 - 😄 Pronouns: he/him
-- ☸️ Website: https://devhorizon.me/
+- ☸️ Website: https://devhorizon.tech/
 
